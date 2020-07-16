@@ -1,0 +1,9 @@
+- nombre: primera interacción
+  usos: actions/first-interaction@v1.0.0
+  con:
+    # Token para el repositorio. Se puede pasar usando {{secrets.GITHUB_TOKEN}}
+    token repo: 
+    # Comentario para publicar en el primer número de un individuo
+    mensaje de problema: # opcional
+    # Comentario para publicar en una primera solicitud de extracción individual
+    mensaje-pr: # opcional
